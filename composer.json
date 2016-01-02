@@ -23,8 +23,8 @@
 	"ext-bcmath": "BCMath will be used if GMP is not available"
     },
     "autoload": {
-        "psr-0": {
-            "SecurityLib": "lib"
+        "psr-4": {
+            "SecurityLib": "lib/SecurityLib"
         }
     },
     "extra": {
